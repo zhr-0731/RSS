@@ -1,0 +1,41 @@
+name: Convert Atom Feeds to RSS 2.0
+
+on:
+  # 每天 UTC 时间 02:00 和 14:00 自动运行（可按需修改）
+  schedule:
+    - cron: '0 2,14 * * *'
+  # 支持手动触发
+  workflow_dispatch:
+
+jobs:
+  convert-feeds:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. 检出代码
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. 安装 Python
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # 3. 安装依赖库
+      - name: Install dependencies
+        run: |
+          pip install feedparser PyRSS2Gen
+
+      # 4. 运行转换脚本
+      - name: Run conversion script
+        run: python scripts/convert_atom_to_rss.py
+
+      # 5. 提交并推送生成的 RSS 文件
+      - name: Commit and push if changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add feeds/
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update RSS feeds [skip ci]"
+          git push
