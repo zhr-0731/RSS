@@ -1,5 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>半瓶</title><link>http://www.orangeclk.com/</link><description>OrangeCLK</description><lastBuildDate>Sun, 14 Jun 2026 06:41:41 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>要不要听老登的话？</title><link>http://www.orangeclk.com/2026/05/17/the-party-is-over/</link><description>“为什么要把自己时间浪费在伺候老登身上”，姚顺宇播客里的这句话在社交网络被不少账号高亮传播。
+<rss version="2.0"><channel><title>半瓶</title><link>http://www.orangeclk.com/</link><description>OrangeCLK</description><lastBuildDate>Sun, 14 Jun 2026 15:48:45 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>盘古是谁做的？</title><link>http://www.orangeclk.com/2026/06/14/pangu-to-moonshot/</link><description>最近余承东重提盘古，让我想起机器之心当时的报道，摘录几段：
+
+如果你是一位 NLP 从业者，你可能发现，最近的中文 NLP 社区有点热闹：「中文版 T5」、「中文版 GPT-3」以及各种大规模中文版预训练模型陆续问世，似乎要带领中文 NLP 社区跑步进入「练大模型」时代。
+
+ 在此背景下，中文语言理解测评基准「CLUE」也经历了它的前辈「GLUE」所经历过的盛况：一个模型的冠军宝座还没坐热，就被一个更新的模型挤了下去。
+
+ 这次刷榜的，是一个叫「盘古」的 NLP 模型。
+
+换言之，在盘古之前，模型竞赛已经开始了，从当时的榜单图片中可以看到，参与者至少有美团、阿里、搜狗。盘古不是第一个。其实，当时GLM、CPM等也已发布，发布在悟道旗下。
+
+可以看到，盘古的研究机构是“华为云-循环智能”，这个“循环智能”是什么公司呢？就是杨植麟的上一家公司，也就是引发投资人提起仲裁的那家公司。
+
+机器之心这篇文章，主体就是对杨植麟的采访。而且那个时候，Moonshot的名字就已经出现了：
+
+在最近的一次访谈中，循环智能 NLP Moonshot 团队向机器之心介绍了这个项目的初衷、挑战和具体的解决方案。
+
+所以，如果想尝试原盘古团队的新作，也许可以试试Kimi Moonshot的产品。
+
+这篇文章结尾，还记录了一段预言：
+
+清华大学计算机科学与技术系教授唐杰在前段时间接受机器之心采访时曾表示，「超大规模预训练模型的出现，很可能改变信息产业格局。继基于数据的互联网时代、基于算力的云计算时代之后，接下来可能将进入基于模型的 AI 时代。」杨植麟也同意这一观点。在他看来，这个新时代将有两大特征。
+
+一是 AI 生产效率的变革。随着标注数据需求大幅降低，AI 生产效率将迎来两到三个数量级的提升，摆脱原来依靠大量样本的落后生产方式，进入规模化量产时代。
+
+二是 AI 场景的指数级增加。技术的突破往往带来新市场，而目前 AI 商业化的现状就是需求很多但技术不一定满足。AI 预训练技术突破之后，马上可以解锁很多新场景，从数字化程度比较高的行业走向传统行业，从大型企业走向中小企业。
+
+前述提到的比盘古更早发布的GLM模型，论文署名最后两位就是杨植麟和唐杰。
+
+本作品采用知识共享署名-相同方式共享 4.0 国际许可协议进行许可。</description><guid isPermaLink="true">http://www.orangeclk.com/2026/06/14/pangu-to-moonshot/</guid><pubDate>Sun, 14 Jun 2026 10:50:21 GMT</pubDate></item><item><title>要不要听老登的话？</title><link>http://www.orangeclk.com/2026/05/17/the-party-is-over/</link><description>“为什么要把自己时间浪费在伺候老登身上”，姚顺宇播客里的这句话在社交网络被不少账号高亮传播。
 
 他在播客中说，本科学凝聚态，博士想挑战自己，申了高能物理。结果发现高能物理没法做实验，没法通过实验验证结论，好坏全凭大佬们的主观判断。于是便有了那句“为什么要把自己时间浪费在伺候老登身上”。
 
@@ -511,22 +539,7 @@ https://www.zhihu.com/question/36340402/answer/2317572001
 在服用有各国特色的安慰剂复合药品时，要注意其中是不是有对乙酰氨基酚和氯苯那敏成分，不要吃重复了。
   (adsbygoogle = window.adsbygoogle || []).push({    google_ad_client: "ca-pub-9356697962209184",    enable_page_level_ads: true  });
 
-本作品采用知识共享署名-相同方式共享 4.0 国际许可协议进行许可。</description><guid isPermaLink="true">http://www.orangeclk.com/2022/11/13/my-cold-drug-list/</guid><pubDate>Sun, 13 Nov 2022 06:55:39 GMT</pubDate></item><item><title>共享经济 众包中介 分时租赁</title><link>http://www.orangeclk.com/2022/09/12/sharing-crowdsourcing-rental-economy/</link><description>我一直觉得“共享经济”这个词很有迷惑性。很多时候可能还是“众包经济”更合适。Airbnb和Uber的创始人都提到希望可以给大家提供更affordable（可负担）的服务[1][2]。也就是说，想提供标准服务的廉价替代品。而旅店和出租都是强监管行业，甚至是需要牌照的行业，它们的服务关系到用户的人身和财产安全，而且出租车会占据道路这种有限的公共资源，有一定准入门槛。
-
-交易平台——或者说众包平台，可以看作是提供了比标准品更便宜或方便的选择，也可以看作是提供了比沙发客、黑车更贵更有保障的选择。它们的受监管力度和价格介于传统的标准产品和黑市产品之间。
-
-这样看来，共享经济确实和“共享”关系不大。比如它没有起到“雨中大家纷纷共享自己汽车座位”这样的效果，相反还是“雨中打不到车”。甚至其从业者中全职人数并不在少，而非“大家分享闲置资源”这样的模式。
-
-Airbnb和Uber借助互联网的网络效应形成了信息中心，利用富集的信息和技术手段开展了中介业务，而这些业务在传统上是以自营方式运营的。这是我眼中它们模式的先进之处。
-
-Airbnb和Uber是中介平台，它们需要房东和司机的参与与“共享”。而“共享单车”、“共享充电宝”、“共享汽车”就连最后这点“共享”也没有了。它们从事的就是分时租赁业务。单车、汽车、充电宝根本不是用户共享的，而是运营方自持的。中国有一些网约车运营方也是自营，而滴滴这样的大公司既有中介业务也有自营业务。这些自营的分时租赁业务和“共享”可以说不沾边。我眼中它们的先进之处在于利用互联网技术实现了少人工干预的高效租赁方案。
-
-在“共享经济”概念兴起的那些年，一些人以为许多东西都可以共享。比如扳手、老虎钳之类的工具类产品，大家用到的不多，买回来在家吃灰，如果一个小区可以共享该多好？但是这些想法都没有跑通。中介模式和分时租赁都没有跑通。对于这些小物件，可是目前还是买来放着闲置总体成本最低吧。
-
-如果想做“真共享”，能削峰填谷、让大家捐赠闲置资源，得是怎样的激励体系才能做到啊？那样的话，Airbnb和Uber要在旅游旺季、下雨天提供补贴，鼓励大家分享；而平时淡季给消费者加价，鼓励资源拥有者别共享了还是自己多用用吧。这实在不是一家廉价酒店、廉价出租汽车公司可以做到的事情。
-  (adsbygoogle = window.adsbygoogle || []).push({    google_ad_client: "ca-pub-9356697962209184",    enable_page_level_ads: true  });
-
-本作品采用知识共享署名-相同方式共享 4.0 国际许可协议进行许可。</description><guid isPermaLink="true">http://www.orangeclk.com/2022/09/12/sharing-crowdsourcing-rental-economy/</guid><pubDate>Mon, 12 Sep 2022 02:05:04 GMT</pubDate></item><item><title>身份游戏</title><link>https://orangeclk.hedwig.pub/i/shen-fen-you-xi</link><description>Eugene Wei提出了一个观点：数字社交网络遇到了规模不经济的情况。
+本作品采用知识共享署名-相同方式共享 4.0 国际许可协议进行许可。</description><guid isPermaLink="true">http://www.orangeclk.com/2022/11/13/my-cold-drug-list/</guid><pubDate>Sun, 13 Nov 2022 06:55:39 GMT</pubDate></item><item><title>身份游戏</title><link>https://orangeclk.hedwig.pub/i/shen-fen-you-xi</link><description>Eugene Wei提出了一个观点：数字社交网络遇到了规模不经济的情况。
 数字社交网络几乎成了现实社交网络的复刻版，而人们在数字社交网络上说的每一句话都会被自己所有的亲朋好友看到。在现实生活中，人很少有机会在这样的场合讲话，可能只有婚礼。
 我愿意用发言成本去理解社交网络的变化。
 不要说对所有亲朋发言，哪怕对十几个人说话，在现实生活中也要付出相当高成本，往往出现在会议、聚会等情境。这样的机会很宝贵，讲话需要字斟句酌，照顾好所有与会者的感受，体面表达出自己的想法。
@@ -1286,4 +1299,32 @@ https://mp.weixin.qq.com/s/aS0lt81eb3YfI6YQDRNtTg
 https://www.orangeclk.com/2026/05/17/the-party-is-over/
 友情链接
 地心引力
-：关注互联网、效率工具与生活方式，一起脱离重力束缚</description><guid>https://orangeclk.hedwig.pub/i/yao-bu-yao-ting-lao-deng-de-hua</guid><pubDate>Sun, 17 May 2026 01:27:00 GMT</pubDate></item></channel></rss>
+：关注互联网、效率工具与生活方式，一起脱离重力束缚</description><guid>https://orangeclk.hedwig.pub/i/yao-bu-yao-ting-lao-deng-de-hua</guid><pubDate>Sun, 17 May 2026 01:27:00 GMT</pubDate></item><item><title>盘古是谁做的？</title><link>https://orangeclk.hedwig.pub/i/pan-gu-shi-shui-zuo-de</link><description>最近
+余承东重提盘古
+，让我想起
+机器之心当时的报道
+，摘录几段：
+如果你是一位 NLP 从业者，你可能发现，最近的中文 NLP 社区有点热闹：「中文版 T5」、「中文版 GPT-3」以及各种大规模中文版预训练模型陆续问世，似乎要带领中文 NLP 社区跑步进入「练大模型」时代。
+在此背景下，中文语言理解测评基准「CLUE」也经历了它的前辈「GLUE」所经历过的盛况：一个模型的冠军宝座还没坐热，就被一个更新的模型挤了下去。
+这次刷榜的，是一个叫「盘古」的 NLP 模型。
+换言之，在盘古之前，模型竞赛已经开始了，从当时的榜单图片中可以看到，参与者至少有美团、阿里、搜狗。盘古不是第一个。其实，当时GLM、CPM等也已发布，
+发布在悟道旗下
+。
+可以看到，盘古的研究机构是“华为云-循环智能”，这个“循环智能”是什么公司呢？就是杨植麟的上一家公司，也就是
+引发投资人提起仲裁
+的那家公司。
+机器之心这篇文章，主体就是对杨植麟的采访。而且那个时候，Moonshot的名字就已经出现了：
+在最近的一次访谈中，循环智能 NLP Moonshot 团队向机器之心介绍了这个项目的初衷、挑战和具体的解决方案。
+所以，如果想尝试原盘古团队的新作，也许可以试试Kimi Moonshot的产品。
+这篇文章结尾，还记录了一段预言：
+清华大学计算机科学与技术系教授唐杰在前段时间接受机器之心采访时曾表示，「超大规模预训练模型的出现，很可能改变信息产业格局。继基于数据的互联网时代、基于算力的云计算时代之后，接下来可能将进入基于模型的 AI 时代。」杨植麟也同意这一观点。在他看来，这个新时代将有两大特征。
+一是 AI 生产效率的变革。随着标注数据需求大幅降低，AI 生产效率将迎来两到三个数量级的提升，摆脱原来依靠大量样本的落后生产方式，进入规模化量产时代。
+二是 AI 场景的指数级增加。技术的突破往往带来新市场，而目前 AI 商业化的现状就是需求很多但技术不一定满足。AI 预训练技术突破之后，马上可以解锁很多新场景，从数字化程度比较高的行业走向传统行业，从大型企业走向中小企业。
+前述提到的比盘古更早发布的GLM模型，
+论文署名
+最后两位就是杨植麟和唐杰。
+原文链接
+https://www.orangeclk.com/2026/06/14/pangu-to-moonshot/
+友情链接
+地心引力
+：关注互联网、效率工具与生活方式，一起脱离重力束缚</description><guid>https://orangeclk.hedwig.pub/i/pan-gu-shi-shui-zuo-de</guid><pubDate>Sun, 14 Jun 2026 14:36:00 GMT</pubDate></item></channel></rss>
