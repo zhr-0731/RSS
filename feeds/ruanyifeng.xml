@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>阮一峰的网络日志</title><link>http://www.ruanyifeng.com/blog/</link><description>Ruan YiFeng's Blog</description><lastBuildDate>Tue, 30 Jun 2026 06:12:52 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Dario Amodei：AI 开源是伪命题</title><link>http://www.ruanyifeng.com/blog/2026/06/anthropic.html</link><description>下面是 Anthropic 公司创始人 Dario Amodei 的言论。
+<rss version="2.0"><channel><title>阮一峰的网络日志</title><link>http://www.ruanyifeng.com/blog/</link><description>Ruan YiFeng's Blog</description><lastBuildDate>Tue, 30 Jun 2026 16:22:31 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Dario Amodei：AI 开源是伪命题</title><link>http://www.ruanyifeng.com/blog/2026/06/anthropic.html</link><description>下面是 Anthropic 公司创始人 Dario Amodei 的言论。
 
 大家看看，是否认同他的说法，还是觉得这是混淆视听，胡说八道。
 
@@ -23,7 +23,7 @@
 
 另外，我昨天收到了 Anthropic 公司邮件，通知我的账户已经被暂停使用，理由是我违反了他们的使用政策。
 
-太可笑了，我的 Anthropic 账户是他们模型刚上线时，为了试用而通过第三国开通的。一共只使用了两次，就在网页简单提问，而且至少有三个月没用了。
+太可笑了，我的 Anthropic 账户是他们模型刚上线时，为了试用而通过第三国开通的（它禁止中国 IP 地址访问）。一共只使用了两次，就在网页简单提问，而且至少有三个月没用了。
 
 我对他们的服务根本没有一丝一毫的破坏，但是他们连我这种"半闲置账户"也要封，唯一理由就是我属于中国用户，不能有漏网之鱼。
 
@@ -31,7 +31,7 @@
 
 这么说吧，据我所知，迄今为止，人类历史上没有任何一种技术，能够保守住秘密，不发生扩散。远一点的中国丝绸、英国织布机，近一点的核技术、加密技术，都是如此。我相信，长期来看，大模型技术、芯片技术也不会例外。
 
-Anthropic 搞这种赤裸裸的、歧视性的"中国人不得入内"政策，只会适得其反。他越封闭，就越会加速开源模型的发展，让自己陷入被开源模型四周包围的孤立境地。
+Anthropic 搞这种赤裸裸的、歧视性的"中国人不得入内"政策，只会适得其反。他越封闭，就越会加速开源模型的发展，让自己陷入被开源模型四面包围的孤立境地。
 
 （完）
 
